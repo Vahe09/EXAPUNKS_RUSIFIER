@@ -1,6 +1,4 @@
-﻿# EXAPUNKS_RUSIFIER
-
-Русификатор EXAPUNKS от Vahe.
+﻿# Русификатор EXAPUNKS от Vahe.
 
 ## Как использовать
 
